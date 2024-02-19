@@ -67,7 +67,6 @@ a {
     width: 99%;
     border: 2px solid var(--accent);
     margin: 10px;
-    padding: 10px;
     display: flex;
     flex-wrap: wrap;
 }
@@ -90,13 +89,19 @@ figure {
 .card {
     min-height: 20vh;
     border: 1px solid var(--accent);
-    background: var(--secondary);
     margin: 10px;
     padding: 0 20px 20px 20px;
     display: flex;
-    flex-direction: column;  
+    flex-direction: column;
+    
+    
 }
 
+.card img {
+    max-width:100%;
+    max-height:100%;
+    vertical-align: middle;
+}
 h2 {
     border: 1px solid var(--accent);
     margin-bottom: 20px;
@@ -108,7 +113,7 @@ h2 {
     padding: 5px;
     border-radius: 5px;
     background-color:  var(--primary);
-    transition: box-shadow 0.7s;
+    transition: 0.7s;
 }
 
 #small {
@@ -131,20 +136,21 @@ h2 {
 
 .contentR {
     float: right;
-    width: 75%;
+    width: 70%;
     border: 2px solid var(--accent);
     flex: 1 0 30%;
-    margin: 10px;
-    padding: 10px;
+    margin: 5px;
+    padding: 0px;
     display: inline-block;
     flex-direction: column;
+    font-size: 22px;
 }
 
+.contentR a {
+    margin: 20px;
+}
 
-
-
-
-figure img {
+figure a {
     max-height: 200px;
 }
 
