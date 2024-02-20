@@ -190,6 +190,7 @@ figure a {
 aside div p img{
     padding-left: 10vw;
     max-height: 180px;
+    background: none;
 }
 
 /* Screen resize */
