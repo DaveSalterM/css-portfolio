@@ -1,6 +1,7 @@
 # css-portfolio
 Week 1 Challenge 2 CSS Portfolio
 
+
 ## Description
 
 This project was designed to test my understanding of HTML and CSS. It showcases previous projects with room for future projects and serves as a personal portfolio. Building this project was useful in understanding resizing for various screen formats.
@@ -9,9 +10,7 @@ This project was designed to test my understanding of HTML and CSS. It showcases
 
 https://davesalterm.github.io/css-portfolio/
 
-[alt text](assets/images/screenshot.png)
-
-
+!(assets/images/screenshot.png)
 
 
 ## License
