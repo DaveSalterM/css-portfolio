@@ -82,10 +82,6 @@ aside p{
     flex-wrap: wrap;
 }
 
-header p {
-    color: var(--accent);
-}
-
 figure {  
     padding: 50px;
     font-family: sans-serif;
