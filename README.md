@@ -10,7 +10,7 @@ This project was designed to test my understanding of HTML and CSS. It showcases
 
 https://davesalterm.github.io/css-portfolio/
 
-!(assets/images/screenshot.png)
+![](./assets/screenshot.png)
 
 
 ## License
